@@ -1,4 +1,4 @@
-#Moment 3 i Javascript
+# Moment 3 i Javascript
 
 I detta momentet ska vi skapa ett repositorie med valfritt innehåll samt lägga till en README fil. Jag har valt att lägga till Moment 2 i detta repositorie. Följande filer finns då med:
 1. uppgift1.js
